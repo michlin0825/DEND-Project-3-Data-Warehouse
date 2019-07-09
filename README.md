@@ -66,7 +66,7 @@
 
 
 
-## Sample Queries
+### Sample Queries
 
 * find top 5 songs played by male 
 
